@@ -1,6 +1,6 @@
 ### Olá! Eu sou Leonardo de Souza 👋
 
-- 👜 Estou em Busca em ofertas de estágio
+- 👜 Buscando ofertas de estágio
 - ⚡ Desenvolvedor Full-Stack
 
 <div style="display: inline_block"><br>
