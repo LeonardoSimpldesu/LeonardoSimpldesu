@@ -33,7 +33,7 @@ I am currently looking for my first job. If you are interested in collaborating 
     <img height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />&nbsp;
     <img height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;
     <img height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />&nbsp;
-    <img height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   </div>
 </div>
 
