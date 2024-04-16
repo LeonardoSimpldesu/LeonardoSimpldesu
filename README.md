@@ -9,6 +9,8 @@ Student of Internet Systems at the Faculdade de Informática e Administração P
 
 I am currently looking for my first job. If you are interested in collaborating or sharing ideas, please don't hesitate to contact me.
 
+<div><br/></div>
+
 ## Technologies that I use in my everyday:
 
   <div>
