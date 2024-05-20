@@ -1,6 +1,6 @@
 ## Hello World! My name is <strong>Leonardo</strong>! 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
 I'm a Brazilian, resident of Minas Gerais, I'm a <strong>Web Developer | Full-Stack</strong>.
