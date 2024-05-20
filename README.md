@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-I'm a 19-year-old Brazilian, resident of Minas Gerais, I'm a <strong>Web Developer | Full-Stack</strong>.
+I'm a Brazilian, resident of Minas Gerais, I'm a <strong>Web Developer | Full-Stack</strong>.
 
 Student of Internet Systems at the Faculdade de Informática e Administração Paulista(FIAP), and I am currently committed to improving my skills as a developer. In my free time I increase my knowledge with Alura's courses.
 
